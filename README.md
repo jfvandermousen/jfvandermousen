@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GSAP, GRAPHQL**
 
-- 👨‍💻 All of my projects are available at [https://jf-vandermousen.vercel.app/](https://jf-vandermousen.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://jf-vandermousen.vercel.app/](https://jf-vandermousen.vercel.app/)
 
 - 📫 How to reach me **jfgraphisme@gmail.com**
 
