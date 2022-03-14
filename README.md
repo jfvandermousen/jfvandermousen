@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm JF Vandermousen</h1>
-<h3 align="center">A passionate Frontend Developer from Belgium</h3>
+<h3 align="center">A passionate Front-End Developer from Belgium</h3>
+<p>&nbsp;</p>
 
 
 - 🌱 I’m currently learning **GSAP, GRAPHQL**
